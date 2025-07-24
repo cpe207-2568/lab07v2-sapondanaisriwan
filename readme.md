@@ -7,8 +7,7 @@
 
 ชื่อ-สกุล : สพลดนัย ศรีวรรณ์
 
-GitHub Page URL :
-
+GitHub Page URL : https://cpe207-2568.github.io/lab07v2-sapondanaisriwan/
 ---
 
 ให้นักศึกษาสร้างหน้าเว็บ frontend สำหรับการใช้ลงทะเบียนอย่างง่ายด้วยความรู้เรื่อง HTML, CSS และ JavaScript ตามรายละเอียดด้านล่างนี้
